@@ -1,7 +1,7 @@
 name: INDUSTRYOUS Photography
 favicon: null
-layout_spectrum: 0.4535469743423164
-typography_spectrum: 0.5485233897343278
+layout_spectrum: 0.24404
+typography_spectrum: 0.36189
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.2863105854485184
+  brandStrength: 0.625
   lightness: 0.7248898958787322
-  saturation: 0.8857644603122026
+  saturation: 0.5
   rhythmicContrast: 0.6479308272246271
 purpose: []
